@@ -1,3 +1,7 @@
 import numpy as np
 
-print("bed")
+<<<<<<< test3
+print("good")
+=======
+print("bad")
+>>>>>>> test1
