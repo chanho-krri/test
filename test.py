@@ -1,3 +1,7 @@
 import numpy as np
 
-print("bed")
+
+print("good")
+
+print("bad")
+
