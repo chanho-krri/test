@@ -1,5 +1,7 @@
 import numpy as np
 
 
-print("goodd")
+print("good")
+
+print("bad")
 
